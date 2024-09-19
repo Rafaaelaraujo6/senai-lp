@@ -6,4 +6,4 @@ git status
 git push -u origin master 
 
 -- quando necessário
-git config credential.username "Luiz Felipe"
+git config credential.username Rafael
